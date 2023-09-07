@@ -22,26 +22,6 @@ body {
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-h2{
-    font-size: 1.5rem;
-}
-
-h3{
-    font-size: .8rem;
-}
-
-header{
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 10px;
-    background: #ffffff;
-}
-
 .container {
     display: flex;
     width: 850px;
